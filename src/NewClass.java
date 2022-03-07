@@ -4,6 +4,7 @@ public class NewClass {
         System.out.println("Fortran");
         System.out.println("Fortran");
         System.out.println("Fortran");
+        System.out.println("Ada");
 
 
     }
