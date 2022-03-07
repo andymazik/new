@@ -5,5 +5,6 @@ public class Solution {
         System.out.println("Java");
         System.out.println("Java");
 
+
     }
 }
